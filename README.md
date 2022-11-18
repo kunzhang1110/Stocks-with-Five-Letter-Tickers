@@ -1,11 +1,11 @@
 # Stocks with Five-letter Tickers
 
-List of commmon stocks with five-letter tickers listed by NYSE, NASDAQ and CBOE (BATS), excluding:
+List of common stocks with five-letter tickers listed by NYSE, NASDAQ and CBOE (BATS), excluding:
 
 - warrants, tradable rights, units and preferred shares
 - common stock tickers containing punctuations, like "BRK.B"
 
-Companies by Market Cap
+## List of Companies by Market Cap
 | Symbol | Exchange | Exchange Name | Name | Market Cap (billions) |
 | ------ | -------- | ------------------ | ---------------------------------------------------------------- | --------------------- |
 | GOOGL | XNAS | Nasdaq All Markets | Alphabet Inc - Class A | 1321.29 |
@@ -125,3 +125,4 @@ ps: preferred shares
 cs: common stocks
 adr: adr
 ```
+
